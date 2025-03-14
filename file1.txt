@@ -1,3 +1,4 @@
 Содержимое файла 1
 First
 Second
+Thirst
